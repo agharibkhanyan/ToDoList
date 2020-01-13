@@ -32,8 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-
+I was not aware that there are two I/O libraries with the same readLines() and writeLines functions. I was stuck trying to figure out why this bug for quiet some time. Eventually I figured out that the tutorial is using the commons-io library. 
 ## License
 
     Copyright [yyyy] [name of copyright owner]
