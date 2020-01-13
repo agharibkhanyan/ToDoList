@@ -4,7 +4,7 @@
 
 Submitted by: **Artur Gharibkhanyan**
 
-Time spent: **4** hours spent in total
+Time spent: **7** hours spent in total
 
 ## User Stories
 
