@@ -11,7 +11,7 @@ Time spent: **7** hours spent in total
 The following **required** functionality is completed:
 
 * [x ] User can **view a list of todo items**
-* [ ] User can **successfully add and remove items** from the todo list
+* [x ] User can **successfully add and remove items** from the todo list
 * [x ] User's **list of items persisted** upon modification and and retrieved properly on app restart
 
 The following **optional** features are implemented:
@@ -35,7 +35,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 I was not aware that there are two I/O libraries with the same readLines() and writeLines functions. I was stuck trying to figure out why this bug for quiet some time. Eventually I figured out that the tutorial is using the commons-io library. 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2020] [Artur Gharibkhanyan]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
